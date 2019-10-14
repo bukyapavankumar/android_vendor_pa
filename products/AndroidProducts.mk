@@ -23,6 +23,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/oneplus6t/pa_oneplus6t.mk \
     $(LOCAL_DIR)/polaris/pa_polaris.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
+    $(LOCAL_DIR)/X00T/pa_X00T.mk \
 
 # SONY OpenDevices
 # Loire 8956
@@ -50,4 +51,5 @@ COMMON_LUNCH_CHOICES += \
     pa_oneplus6t-userdebug \
     pa_polaris-userdebug \
     pa_sagit-userdebug \
-    pa_suzu-userdebug
+    pa_suzu-userdebug \
+    pa_X00T-userdebug
